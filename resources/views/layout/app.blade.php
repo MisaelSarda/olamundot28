@@ -25,6 +25,12 @@
                     hover:text-blue-500">Sobre</a></li>
                 <li><a href="{{url('/contato')}}" class="text-white
                     hover:text-blue-500">Contato</a></li>
+                <li><a href="{{url('/imc')}}" class="text-white
+                    hover:text-blue-500">IMC</a></li>
+                <li><a href="{{url('/saude')}}" class="text-white
+                    hover:text-blue-500">Saude</a></li>
+                <li><a href="{{url('/consumo_combustivel.blade')}}" class="text-white
+                    hover:text-blue-500">Calculadora de Combustível</a></li>
             </ul>
         </nav>
         <br>
