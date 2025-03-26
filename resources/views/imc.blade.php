@@ -54,7 +54,7 @@
         }
         .resultado {
             margin-top: 20px;
-            background:rgb(238, 89, 89);
+            background:rgb(169, 245, 83);
             padding: 15px;
             border-radius: 8px;
             font-size: 18px;
